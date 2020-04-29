@@ -1,4 +1,16 @@
 [
+{
+    "Suspeitos": 10000000,
+    "Confirmados": 0,
+    "Descartados": 0,
+    "Monitoramento": 0,
+    "Curados": 0,
+    "Sdomiciliar": 0,
+    "Shopitalar": 0,
+    "Chospitalar": 0,
+    "mortes": 0,
+    "boletim": "2020-03-29T03:00:00.000Z"
+  },
   {
     "Suspeitos": 1,
     "Confirmados": 0,
